@@ -19,9 +19,9 @@ This repository includes examples of using `direnv` with popular development set
 
 | Language  | Tool              | Folder                                    |
 |-----------|-------------------|-------------------------------------------|
-| Python    | virtualenv/pipenv | [`Python`](./python-virtualenv/README.md) |
-| Terraform | dotenv            | [`Terraform`](./python-pipenv/README.md)  |
-| Node.js   | nvm               | [`Node`](./node-nvm/README.md)            |
+| Python    | virtualenv/pipenv | [`Python`](./python/) |
+| Terraform | dotenv            | [`Terraform`](./terraform/)  |
+| Node.js   | nvm               | [`Node`](./node/)            |
 
 Each folder contains:
 

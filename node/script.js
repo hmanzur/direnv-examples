@@ -1,0 +1,1 @@
+console.log(`Hello from Node.js direnv ${process.env.DIRENV} script!`);
