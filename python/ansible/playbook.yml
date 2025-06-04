@@ -1,0 +1,13 @@
+---
+- name: Test playbook - print hello world
+  hosts: localhost
+  gather_facts: false
+
+  tasks:
+    - name: Print hello world message
+      ansible.builtin.debug:
+        msg: "hello world"
+
+    # - name: Print a second message
+    #   debug:
+    #     msg: "this is a second task"
